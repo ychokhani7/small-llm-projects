@@ -1,0 +1,8 @@
+gradio
+torch
+spaces
+langchain
+langchain-huggingface
+langchain-core
+accelerate
+transformers
